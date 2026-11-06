@@ -1,0 +1,9 @@
+﻿# Microsoft Office temporary lock files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# OS / Editor files
+Thumbs.db
+.DS_Store
+.vscode/
